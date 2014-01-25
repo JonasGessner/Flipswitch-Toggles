@@ -1,0 +1,7 @@
+Package: de.j-gessner.syslogflipswitchxpc
+Name: Syslog Flipswitch Server
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome XPC service!
+Author: root
+Section: System

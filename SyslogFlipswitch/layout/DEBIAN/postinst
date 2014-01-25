@@ -1,0 +1,5 @@
+#!/bin/sh
+chown root:wheel /Library/LaunchDaemons/de.j-gessner.syslogflipswitchxpc.plist
+chmod 644 /Library/LaunchDaemons/de.j-gessner.syslogflipswitchxpc.plist
+launchctl load /Library/LaunchDaemons/de.j-gessner.syslogflipswitchxpc.plist
+exit 0

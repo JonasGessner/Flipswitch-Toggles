@@ -1,0 +1,8 @@
+Package: de.j-gessner.syslogflipswitch
+Name: Syslog Flipswitch
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 5.0), syslogd
+Architecture: iphoneos-arm
+Description: Syslog Switch for Flipswitch.
+Author: Jonas Gessner
+Section: Addons (Flipswitch)
+Version: 0.9.1

@@ -1,0 +1,2 @@
+#!/bin/sh
+launchctl unload /Library/LaunchDaemons/de.j-gessner.syslogflipswitchxpc.plist
